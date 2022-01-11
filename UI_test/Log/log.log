@@ -1,0 +1,264 @@
+2021-12-15 10:04:52 DEBUG - Get settings from: settings.json
+2021-12-15 10:05:05 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2021-12-15 10:05:05 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2021-12-15 10:05:06 INFO - Browser 'Chrome' ready...
+2021-12-15 10:05:06 INFO - Maximizing browser window
+2021-12-15 10:05:06 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2021-12-15 10:05:07 INFO - Waiting for page to load
+2021-12-15 10:05:07 INFO - Button 'WelcomeForm: click button' :: Clicking
+2021-12-15 10:05:07 INFO - Text Field '' :: Clearing
+2021-12-15 10:05:07 INFO - Text Field '' :: Typing 'This23Is587!Very2Safe34'
+2021-12-15 10:05:07 INFO - Text Field '' :: Clearing
+2021-12-15 10:05:07 INFO - Text Field '' :: Typing 'justemail34563'
+2021-12-15 10:05:07 INFO - Text Field 'input domaininput logininput password' :: Clearing
+2021-12-15 10:05:07 INFO - Text Field 'input domaininput logininput password' :: Typing 'gmail'
+2021-12-15 10:05:08 INFO - Button 'click dropdown' :: Clicking
+2021-12-15 10:05:08 INFO - Button '.com' :: Clicking
+2021-12-15 10:05:08 INFO - Button 'termsCheckBox' :: Clicking
+2021-12-15 10:05:08 INFO - Button 'go to next page' :: Clicking
+2021-12-15 10:05:08 INFO - Waiting for page to load
+2021-12-15 10:05:08 INFO - Waiting for page to load
+2021-12-15 10:05:08 INFO - Button 'uploadImageButton' :: Clicking
+2021-12-15 10:05:08 INFO - Waiting for page to load
+2021-12-15 10:05:08 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2021-12-15 10:05:08 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2021-12-15 10:05:10 INFO - Browser 'Chrome' ready...
+2021-12-15 10:05:10 INFO - Maximizing browser window
+2021-12-15 10:05:10 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2021-12-15 10:05:11 INFO - Waiting for page to load
+2021-12-15 10:05:11 INFO - Button 'WelcomeForm: click button' :: Clicking
+2021-12-15 10:05:12 INFO - Button 'hide help' :: Clicking
+2021-12-15 10:05:12 INFO - Button 'hide help' :: Waiting for element to be invisible or absent
+2021-12-15 10:05:15 DEBUG - Elements were found by locator 'By.XPath: //*[@class='discrete']' but not in desired state Displayed
+2021-12-15 10:05:15 DEBUG - Elements were found by locator 'By.XPath: //*[@class='discrete']' but not in desired state Displayed
+2021-12-15 10:05:15 INFO - Closing browser
+2021-12-15 10:05:15 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2021-12-15 10:05:15 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2021-12-15 10:05:16 INFO - Browser 'Chrome' ready...
+2021-12-15 10:05:16 INFO - Maximizing browser window
+2021-12-15 10:05:16 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2021-12-15 10:05:18 INFO - Waiting for page to load
+2021-12-15 10:05:18 INFO - Button 'WelcomeForm: click button' :: Clicking
+2021-12-15 10:05:18 INFO - Button 'hide cookie' :: Clicking
+2021-12-15 10:05:20 INFO - Button 'hide cookie' :: Waiting for element to be invisible or absent
+2021-12-15 10:05:20 DEBUG - No elements with locator 'By.XPath: //*[@class='button button--solid button--transparent']' were found in Displayed state
+2021-12-15 10:05:20 DEBUG - No elements with locator 'By.XPath: //*[@class='button button--solid button--transparent']' were found in Displayed state
+2021-12-15 10:05:20 INFO - Closing browser
+2021-12-15 10:05:20 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2021-12-15 10:05:20 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2021-12-15 10:05:21 INFO - Browser 'Chrome' ready...
+2021-12-15 10:05:21 INFO - Maximizing browser window
+2021-12-15 10:05:21 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2021-12-15 10:05:23 INFO - Waiting for page to load
+2021-12-15 10:05:23 INFO - Button 'WelcomeForm: click button' :: Clicking
+2021-12-15 10:05:24 INFO - Button 'get zero time' :: Getting text from element
+2021-12-15 10:05:24 INFO - Button 'get zero time' :: Element's text: [00:00:00]
+2021-12-15 10:05:24 INFO - Closing browser
+2021-12-15 10:22:04 DEBUG - Get settings from: settings.json
+2021-12-15 10:22:04 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2021-12-15 10:22:04 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2021-12-15 10:22:06 INFO - Browser 'Chrome' ready...
+2021-12-15 10:22:06 INFO - Maximizing browser window
+2021-12-15 10:22:06 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2021-12-15 10:22:07 INFO - Waiting for page to load
+2021-12-15 10:22:07 INFO - Button 'WelcomeForm: click button' :: Clicking
+2021-12-15 10:22:07 INFO - Text Field '' :: Clearing
+2021-12-15 10:22:07 INFO - Text Field '' :: Typing 'This23Is587!Very2Safe34'
+2021-12-15 10:22:07 INFO - Text Field '' :: Clearing
+2021-12-15 10:22:07 INFO - Text Field '' :: Typing 'justemail34563'
+2021-12-15 10:22:07 INFO - Text Field 'input domaininput logininput password' :: Clearing
+2021-12-15 10:22:07 INFO - Text Field 'input domaininput logininput password' :: Typing 'gmail'
+2021-12-15 10:22:07 INFO - Button 'click dropdown' :: Clicking
+2021-12-15 10:22:07 INFO - Button '.com' :: Clicking
+2021-12-15 10:22:08 INFO - Button 'termsCheckBox' :: Clicking
+2021-12-15 10:22:08 INFO - Button 'go to next page' :: Clicking
+2021-12-15 10:22:08 INFO - Waiting for page to load
+2021-12-15 10:22:08 INFO - Waiting for page to load
+2021-12-15 10:22:08 INFO - Button 'uploadImageButton' :: Clicking
+2021-12-15 10:22:08 INFO - Waiting for page to load
+2021-12-15 10:22:08 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2021-12-15 10:22:08 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2021-12-15 10:22:09 INFO - Browser 'Chrome' ready...
+2021-12-15 10:22:09 INFO - Maximizing browser window
+2021-12-15 10:22:09 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2021-12-15 10:22:10 INFO - Waiting for page to load
+2021-12-15 10:22:10 INFO - Button 'WelcomeForm: click button' :: Clicking
+2021-12-15 10:22:11 INFO - Button 'hide help' :: Clicking
+2021-12-15 10:22:11 INFO - Button 'hide help' :: Waiting for element to be invisible or absent
+2021-12-15 10:22:14 DEBUG - Elements were found by locator 'By.XPath: //*[@class='discrete']' but not in desired state Displayed
+2021-12-15 10:22:14 DEBUG - Elements were found by locator 'By.XPath: //*[@class='discrete']' but not in desired state Displayed
+2021-12-15 10:22:14 INFO - Closing browser
+2021-12-15 10:22:14 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2021-12-15 10:22:14 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2021-12-15 10:22:15 INFO - Browser 'Chrome' ready...
+2021-12-15 10:22:15 INFO - Maximizing browser window
+2021-12-15 10:22:15 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2021-12-15 10:22:16 INFO - Waiting for page to load
+2021-12-15 10:22:16 INFO - Button 'WelcomeForm: click button' :: Clicking
+2021-12-15 10:22:16 INFO - Button 'hide cookie' :: Clicking
+2021-12-15 10:22:19 INFO - Button 'hide cookie' :: Waiting for element to be invisible or absent
+2021-12-15 10:22:19 DEBUG - No elements with locator 'By.XPath: //*[@class='button button--solid button--transparent']' were found in Displayed state
+2021-12-15 10:22:19 DEBUG - No elements with locator 'By.XPath: //*[@class='button button--solid button--transparent']' were found in Displayed state
+2021-12-15 10:22:19 INFO - Closing browser
+2021-12-15 10:22:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2021-12-15 10:22:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2021-12-15 10:22:20 INFO - Browser 'Chrome' ready...
+2021-12-15 10:22:20 INFO - Maximizing browser window
+2021-12-15 10:22:20 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2021-12-15 10:22:21 INFO - Waiting for page to load
+2021-12-15 10:22:21 INFO - Button 'WelcomeForm: click button' :: Clicking
+2021-12-15 10:22:21 INFO - Button 'get zero time' :: Getting text from element
+2021-12-15 10:22:21 INFO - Button 'get zero time' :: Element's text: [00:00:00]
+2021-12-15 10:22:21 INFO - Closing browser
+2022-01-10 19:35:55 DEBUG - Get settings from: settings.json
+2022-01-10 19:35:55 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2022-01-10 19:35:55 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-01-10 19:35:56 INFO - Browser 'Chrome' ready...
+2022-01-10 19:35:56 INFO - Maximizing browser window
+2022-01-10 19:35:57 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2022-01-10 19:35:57 INFO - Waiting for page to load
+2022-01-10 19:35:57 INFO - Button 'WelcomeForm: click button' :: Clicking
+2022-01-10 19:35:57 INFO - Text Field '' :: Clearing
+2022-01-10 19:35:57 INFO - Text Field '' :: Typing 'This23Is587!Very2Safe34'
+2022-01-10 19:35:57 INFO - Text Field '' :: Clearing
+2022-01-10 19:35:57 INFO - Text Field '' :: Typing 'justemail34563'
+2022-01-10 19:35:57 INFO - Text Field 'input domaininput logininput password' :: Clearing
+2022-01-10 19:35:57 INFO - Text Field 'input domaininput logininput password' :: Typing 'gmail'
+2022-01-10 19:35:57 INFO - Button 'click dropdown' :: Clicking
+2022-01-10 19:35:57 INFO - Button '.com' :: Clicking
+2022-01-10 19:35:58 INFO - Button 'termsCheckBox' :: Clicking
+2022-01-10 19:35:58 INFO - Button 'go to next page' :: Clicking
+2022-01-10 19:35:58 INFO - Waiting for page to load
+2022-01-10 19:35:58 INFO - Waiting for page to load
+2022-01-10 19:35:58 INFO - Button 'uploadImageButton' :: Clicking
+2022-01-10 19:35:58 INFO - Waiting for page to load
+2022-01-10 19:35:58 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2022-01-10 19:35:58 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-01-10 19:35:59 INFO - Browser 'Chrome' ready...
+2022-01-10 19:35:59 INFO - Maximizing browser window
+2022-01-10 19:35:59 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2022-01-10 19:36:00 INFO - Waiting for page to load
+2022-01-10 19:36:00 INFO - Button 'WelcomeForm: click button' :: Clicking
+2022-01-10 19:36:00 INFO - Button 'hide help' :: Clicking
+2022-01-10 19:36:00 INFO - Button 'hide help' :: Waiting for element to be invisible or absent
+2022-01-10 19:36:03 DEBUG - Elements were found by locator 'By.XPath: //*[@class='discrete']' but not in desired state Displayed
+2022-01-10 19:36:03 DEBUG - Elements were found by locator 'By.XPath: //*[@class='discrete']' but not in desired state Displayed
+2022-01-10 19:36:03 INFO - Closing browser
+2022-01-10 19:36:03 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2022-01-10 19:36:03 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-01-10 19:36:04 INFO - Browser 'Chrome' ready...
+2022-01-10 19:36:04 INFO - Maximizing browser window
+2022-01-10 19:36:04 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2022-01-10 19:36:04 INFO - Waiting for page to load
+2022-01-10 19:36:04 INFO - Button 'WelcomeForm: click button' :: Clicking
+2022-01-10 19:36:05 INFO - Button 'hide cookie' :: Clicking
+2022-01-10 19:36:07 INFO - Button 'hide cookie' :: Waiting for element to be invisible or absent
+2022-01-10 19:36:07 DEBUG - No elements with locator 'By.XPath: //*[@class='button button--solid button--transparent']' were found in Displayed state
+2022-01-10 19:36:07 DEBUG - No elements with locator 'By.XPath: //*[@class='button button--solid button--transparent']' were found in Displayed state
+2022-01-10 19:36:07 INFO - Closing browser
+2022-01-10 19:36:07 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: //home//selenium//downloads
+2022-01-10 19:36:07 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2022-01-10 19:36:08 INFO - Browser 'Chrome' ready...
+2022-01-10 19:36:08 INFO - Maximizing browser window
+2022-01-10 19:36:08 INFO - Navigate to url - 'https://userinyerface.com/game.html%20target='
+2022-01-10 19:36:09 INFO - Waiting for page to load
+2022-01-10 19:36:09 INFO - Button 'WelcomeForm: click button' :: Clicking
+2022-01-10 19:36:09 INFO - Button 'get zero time' :: Getting text from element
+2022-01-10 19:36:09 INFO - Button 'get zero time' :: Element's text: [00:00:00]
+2022-01-10 19:36:09 INFO - Closing browser
